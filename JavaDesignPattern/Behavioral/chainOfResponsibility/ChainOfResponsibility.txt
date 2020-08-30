@@ -1,1 +1,1 @@
-Ã¥ÀÓ¿¬¼â(Chain of Responsibility)
+ì±…ìž„ì—°ì‡„(Chain of Responsibility)
